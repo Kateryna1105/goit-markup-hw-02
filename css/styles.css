@@ -1,0 +1,97 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.03em;
+}
+
+.logo {
+    font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+}
+
+.site-nav {   
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+}
+
+.nav-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+}
+
+.hero-title {
+    font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+}
+
+.button {
+font-weight: 700;
+font-size: 16px;
+line-height: 1.88;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+}
+
+.Particular-qualities-title {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+}
+
+.Particular-qualities-text {
+font-size: 14px;
+line-height: 1.71;
+}
+
+.doing-title, 
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+}
+
+.team-person {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.19;
+}
+
+.team-text {
+font-size: 16px;
+line-height: 1.19;
+}
+
+.address-text,
+.foot-link {
+font-size: 14px;
+line-height: 1.71;
+}
+
+.list-button {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+}
+
+.portfolio-title {
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+}
+
+.portfolio-text {
+font-size: 16px;
+line-height: 1.88;
+}
