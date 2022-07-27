@@ -3,6 +3,7 @@
     --secondary-title-color:#212121;
     --about-btn-color:#212121;
     --text-color:#757575;
+    --part-second-logo-color-foot:#ffffff;
 }
 
 
@@ -24,7 +25,7 @@ body {
 }
 
 .part-second {
-    color:var(--ma);
+    color:var(--part-second-logo-color-foot);
 }
 
 .list {
@@ -108,6 +109,18 @@ font-size: 36px;
 line-height: 1.17;
 text-align: center;
 color:var(--secondary-title-color);
+background-color: #FFFFFF;
+}
+
+.container-team-back {
+    width: 270px;
+    height: 368px;
+    border-radius: 0px 0px 4px 4px;
+    background: #FFFFFF;
+}
+
+.section-team {
+background: #F5F4FA;
 }
 
 .team-person {
@@ -121,6 +134,10 @@ color: #212121;
 font-size: 16px;
 line-height: 1.19;
 color:var(--text-color);
+}
+
+.address-section {
+    font-style: normal;
 }
 
 .address-text,
@@ -147,7 +164,6 @@ text-align: center;
 
 .about-btn {
 font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62;
@@ -155,12 +171,13 @@ text-align: center;
 letter-spacing: 0.03em;
 color:var(--about-btn-color);
 background: #F5F4FA;
+border: none;
 }
 
 .about-btn:hover, 
 .about-btn:focus {
     background: #2196F3;
-    color: FFFFFF;
+    color: #FFFFFF;
 }
 
 .portfolio-title {
@@ -176,3 +193,6 @@ font-size: 16px;
 line-height: 1.88;
 color:var(--text-color);
 }
+
+
+
